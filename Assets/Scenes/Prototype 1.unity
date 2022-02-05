@@ -450,7 +450,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
-  turnSpeed: 50
+  turnSpeed: 80
 --- !u!54 &686085847
 Rigidbody:
   m_ObjectHideFlags: 0
